@@ -1,6 +1,8 @@
 # viasat
 An application that pulls the HTML of any 10 website home pages and saves them to separate files locally.
 
+# TO RUN PROJECT LOCALLY
+
 ## Clone Repository
 `git clone https://github.com/muggsy27/viasat.git`
 
