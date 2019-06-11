@@ -4,6 +4,11 @@ An application that pulls the HTML of any 10 website home pages and saves them t
 ## Clone Repository
 `git clone https://github.com/muggsy27/viasat.git`
 
+## Navigate To Project Folder
+
+## Install Dependencies
+`npm install`
+
 ## Run The Project
 `npm run start`
 
